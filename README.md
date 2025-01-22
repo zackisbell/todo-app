@@ -3,7 +3,7 @@
 An app that allows you to easily keep track of the things you need to get done. The data will be saved so that your to-dos will not go missing. Simply type in your to-do and hit 'Enter' or press the '+' button to add your to-do. Once your to-done is to-done, click the 'done' button!
  \
  \
-**It's that easy.**\
+**It's that easy.**  
 
 ### React + Vite
 
